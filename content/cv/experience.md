@@ -76,13 +76,15 @@ Responsibilities include:
   * Using "Lean Manufacturing" principles, we aim to deliver immediate business value by producing blocks of working code within pre-agreed time frames. Agility, future technologies, business value and working projects are the key drivers at Euricom.
 """
 
-#[[experience]]
-#  title = "Title"
-#  company = "Company"
-#  company_url = "https://company.com"
-#  location = "Location"
-#  date_start = ""
-#  date_end = ""
-#  description = """ """
+[[experience]]
+  title = "Senior .NET Developer"
+  company = "Ordina"
+  company_url = "https://ordina.be"
+  location = "Mechelen"
+  date_start = "2009-12-01"
+  date_end = "2012-10-31"
+  description = """ 
+  Consultancy - .NET - Windows Forms - ASP.NET - WPF - WCF - EF - Silverlight - ADO.NET - Windows Phone - SQL Server - Oracle - Enterprise Library
+  """
 
 +++
