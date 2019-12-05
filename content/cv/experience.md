@@ -87,4 +87,71 @@ Responsibilities include:
   Consultancy - .NET - Windows Forms - ASP.NET - WPF - WCF - EF - Silverlight - ADO.NET - Windows Phone - SQL Server - Oracle - Enterprise Library
   """
 
+[[experience]]
+  title = "Software Developer"
+  company = "ICMS"
+  company_url = "https://www.knowliah.com/"
+  location = "Boortmeerbeek"
+  date_start = "2006-12-01"
+  date_end = "2009-12-31"
+  description = """ 
+  .NET - Windows Forms - ASP.NET - ADO.NET - SQL Server - Lucene - Solr
+  """  
+
+[[experience]]
+  title = "Software Developer"
+  company = "Sogeti"
+  company_url = "https://www.sogeti.be/"
+  location = "Kontich"
+  date_start = "2006-08-01"
+  date_end = "2006-11-30"
+  description = """ 
+  Consultancy - VB6 - ASP - SQL Server
+  """  
+
+[[experience]]
+  title = "Software Developer"
+  company = "Sofico"
+  company_url = "https://www.sofico.be/"
+  location = "Zwijnaarde"
+  date_start = "2004-04-01"
+  date_end = "2006-07-31"
+  description = """ 
+  JAVA - PL-SQL
+  """  
+
+[[experience]]
+  title = "Software Developer"
+  company = "Sofico"
+  company_url = "https://www.sofico.be/"
+  location = "Zwijnaarde"
+  date_start = "2004-04-01"
+  date_end = "2006-07-31"
+  description = """ 
+  JAVA - PL-SQL
+  """  
+
+
+[[experience]]
+  title = "Software Developer"
+  company = "LBCO"
+  company_url = ""
+  location = "Lokeren"
+  date_start = "2002-10-01"
+  date_end = "2004-03-31"
+  description = """ 
+  Magic - eDeveloper - System Engineer
+  """  
+
+[[experience]]
+  title = "Software Developer"
+  company = "Info Support"
+  company_url = "https://www.infosupport.com"
+  location = "Schelle"
+  date_start = "2000-07-01"
+  date_end = "2002-09-30"
+  description = """ 
+  Consultancy - VB6 - SQL Server - Crystal Reports
+  """  
+
 +++
