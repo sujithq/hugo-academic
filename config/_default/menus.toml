@@ -46,11 +46,11 @@
   parent = "about"
 
 
-[[main]]
-  name = "Skills"
-  url = "/cv/#skills"
-  weight = 30
-  parent = "about"
+#[[main]]
+#  name = "Skills"
+#  url = "/cv/#skills"
+#  weight = 30
+#  parent = "about"
 
 
 #[[main]]
