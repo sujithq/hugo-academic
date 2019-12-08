@@ -157,7 +157,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-28"
   date_end = ""
   description = """
-  This course will teach you how to use the container management platform used by companies like Google to manage their application infrastructure.
+  This course teaches how to use the container management platform used by companies like Google to manage their application infrastructure.
   """  
 
 [[item]]
@@ -169,6 +169,6 @@ date_format = "Jan 2006"
   date_start = "2018-11-28"
   date_end = ""
   description = """
-  This course will teach you how to containerize, host, deploy, and configure an application in a multi-node cluster. Starting with a simple Python script, you will define application resources and use core primitives to build, monitor and troubleshoot scalable applications in Kubernetes. Working with network plugins, security and cloud storage, you will be exposed to many of the features needed to deploy an application in a production environment.
+  This course teaches how to containerize, host, deploy, and configure an application in a multi-node cluster. Starting with a simple Python script, you will define application resources and use core primitives to build, monitor and troubleshoot scalable applications in Kubernetes. Working with network plugins, security and cloud storage, you will be exposed to many of the features needed to deploy an application in a production environment.
   """  
 +++

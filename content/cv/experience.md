@@ -58,8 +58,6 @@ Responsibilities include:
   date_start = "2012-11-01"
   date_end = "2019-06-30"
   description = """
-  Euricom (wholly owned Dimension Data company), founded 1999, is one of the leading .NET Software companies in Belgium. Focused on delivering performance and quality, our 70 consultants support our customers with architecture, methodology and development of Microsoft technologies driving them to a dynamic environment.
-  The Cloud Center of Excellence (CoE) offers a range of new consultancy services to clients based around the Microsoft Azure platform:
 
 * Senior Azure Consultant
   * RFP support
@@ -72,7 +70,6 @@ Responsibilities include:
   * Pre-sales and setup AppDynamics 
 
 * Senior.NET Developer
-
   * Using "Lean Manufacturing" principles, we aim to deliver immediate business value by producing blocks of working code within pre-agreed time frames. Agility, future technologies, business value and working projects are the key drivers at Euricom.
 """
 
@@ -118,19 +115,7 @@ Responsibilities include:
   date_end = "2006-07-31"
   description = """ 
   JAVA - PL-SQL
-  """  
-
-[[experience]]
-  title = "Software Developer"
-  company = "Sofico"
-  company_url = "https://www.sofico.be/"
-  location = "Zwijnaarde"
-  date_start = "2004-04-01"
-  date_end = "2006-07-31"
-  description = """ 
-  JAVA - PL-SQL
-  """  
-
+  """
 
 [[experience]]
   title = "Software Developer"

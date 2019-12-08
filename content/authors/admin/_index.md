@@ -72,11 +72,10 @@ user_groups:
 - Visitors
 ---
 
-Sujith brings almost 20 years of IT experience, combined with excellent communication and presentation skills. He is an efficient, analytical, positive thinking professional who has successfully demonstrated the ability of understanding business requirements, specifying systems, developing working software and Designing Azure Solutions.
- 
-As lead developer he has carried the full weight of the software development in medium-sized software rms in the past few years. As such he is guiding other developers, streamlining development, defining standards, organizing code reviews, exploring new technologies, etc. Having worked on the same products for several years he has developed a deeper understanding of the evolution of software.
+Sujith brings almost 20 years of IT experience, combined with excellent communication and presentation skills. He is an efficient, analytical, positive thinking professional who has successfully demonstrated the ability of understanding business requirements, specifying systems, developing working software and designing Azure solutions.
 
-As a certified Azure Solutions Architect he demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. He has advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance - managing how decisions in each area affects an overall solution.
+As a certified Azure Solutions Architect he demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. He has advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance. He also understands how managing decisions in each area affect an overall solution.
+
+As lead developer, he has carried the full weight of software development in medium-sized software firms in the past few years. As such he is guiding other developers, streamlining development, defining standards, organizing code reviews, exploring new technologies, etc. Having worked on the same products for several years, he has developed a deeper understanding of the evolution of software.
  
 He is an excellent team player, capable of working under pressure and without supervision. He is well organized, self-motivated, and has demonstrated important skills in dealing with issues and resolving them prior to becoming problems. He is an easy learning person used to acquire new knowledge about customer systems, standards, tools and trends. He is eager to learn new technologies and is continuously extending his knowledge.
-

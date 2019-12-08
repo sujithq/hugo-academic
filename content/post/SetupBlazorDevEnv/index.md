@@ -43,7 +43,7 @@ image:
 projects: []
 ---
 
-This guide helps you setting up your [Blazor](https://blazor.net/) development environment without messing up your current development machine with beta releases.
+This guide helps you set up your [Blazor](https://blazor.net/) development environment without messing up your current development machine with beta releases.
 
 We will use these tools
 
@@ -51,7 +51,9 @@ We will use these tools
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-Create a local directory with one subdirectory app.
+# Let's get started
+
+Create a local directory with one subdirectory named "app".
 
 ![](img/create_directory.png)
 
