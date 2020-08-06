@@ -33,6 +33,30 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Microsoft"
   organization_url = "https://www.microsoft.com"
+  title = "Microsoft Certified: Microsoft Certified: Azure Security Engineer Associate"
+  url = "https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/bf467f1a-c7fe-472a-bc4e-565899a5d74b"
+  date_start = "2020-04-23"
+  date_end = ""
+  description = """
+  Earning Azure Security Engineer Associate certification validates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.
+  """
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com"
+  title = "Microsoft Certified: Microsoft Certified: Azure Administrator Associate"
+  url = "https://docs.microsoft.com/en-us/learn/certifications/azure-administrator"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"
+  date_start = "2020-08-07"
+  date_end = ""
+  description = """
+  Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
+  """
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com"
   title = "AZ-300 Microsoft Azure Architect Technologies"
   url = "https://docs.microsoft.com/en-us/learn/certifications/exams/az-300"
   certificate_url = "https://www.youracclaim.com/badges/fe4e9ae1-6bbc-4e5d-82f7-92ae1f0b2c66"
