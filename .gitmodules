@@ -1,6 +1,3 @@
 [submodule "themes/hugo-academic"]
 	path = themes/hugo-academic
 	url = https://github.com/sujithq/hugo-academic-1.git
-[submodule "public"]
-	path = public
-	url = https://github.com/sujithq/sujithq.github.io.git
