@@ -74,7 +74,11 @@ user_groups:
 
 Sujith brings almost 20 years of IT experience, combined with excellent communication and presentation skills. He is an efficient, analytical, positive thinking professional who has successfully demonstrated the ability of understanding business requirements, specifying systems, developing working software and designing Azure solutions.
 
-As a certified Azure Solutions Architect and Azure Security Engineer he demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. He has advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance. He also understands how managing decisions in each area affect an overall solution.
+As a certified Azure Solutions Architect he demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. He has advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance. He also understands how managing decisions in each area affect an overall solution.
+
+As a certified DevOps Engineer he demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.
+
+As a certified Azure Security Engineer he demonstrates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.
 
 As lead developer, he has carried the full weight of software development in medium-sized software firms in the past few years. As such he is guiding other developers, streamlining development, defining standards, organizing code reviews, exploring new technologies, etc. Having worked on the same products for several years, he has developed a deeper understanding of the evolution of software.
  
