@@ -33,6 +33,18 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Microsoft"
   organization_url = "https://www.microsoft.com"
+  title = "Microsoft Certified: DevOps Engineer Expert"
+  url = "https://docs.microsoft.com/en-gb/learn/certifications/devops-engineer"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/8be7e149-d0ac-47e8-909e-5a30f8b6a799"
+  date_start = "2019-08-12"
+  date_end = ""
+  description = """
+  Earning the Azure Solutions Architect Expert certification demonstrates skills and knowledge to advise stakeholders and translate business requirements into secure, scalable, and reliable solutions. Candidates have advanced experience and knowledge across various aspects of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data management, budgeting, and governance - managing how decisions in each area affects an overall solution.
+  """
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com"
   title = "Microsoft Certified: Microsoft Certified: Azure Security Engineer Associate"
   url = "https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer"
   certificate_url = "https://www.youracclaim.com/earner/earned/badge/bf467f1a-c7fe-472a-bc4e-565899a5d74b"
