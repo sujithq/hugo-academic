@@ -24,6 +24,7 @@ interests:
 - Azure
 - DevOps
 - Kubernetes
+- Terraform
 - Application Development
 - .NET
 - Architecture
