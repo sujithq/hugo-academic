@@ -81,6 +81,8 @@ As a certified DevOps Engineer he demonstrates the ability to combine people, pr
 
 As a certified Azure Security Engineer he demonstrates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.
 
+As a certified Azure Developer he demonstrates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.
+
 As lead developer, he has carried the full weight of software development in medium-sized software firms in the past few years. As such he is guiding other developers, streamlining development, defining standards, organizing code reviews, exploring new technologies, etc. Having worked on the same products for several years, he has developed a deeper understanding of the evolution of software.
  
 He is an excellent team player, capable of working under pressure and without supervision. He is well organized, self-motivated, and has demonstrated important skills in dealing with issues and resolving them prior to becoming problems. He is an easy learning person used to acquire new knowledge about customer systems, standards, tools and trends. He is eager to learn new technologies and is continuously extending his knowledge.

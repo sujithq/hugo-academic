@@ -69,6 +69,18 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Microsoft"
   organization_url = "https://www.microsoft.com"
+  title = "Microsoft Certified: Azure Developer Associate"
+  url = "https://docs.microsoft.com/en-gb/learn/certifications/azure-developer"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/14a23058-7390-4044-b1a4-8462520ef288"
+  date_start = "2020-08-26"
+  date_end = ""
+  description = """
+  Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.
+  """
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com"
   title = "AZ-300 Microsoft Azure Architect Technologies"
   url = "https://docs.microsoft.com/en-us/learn/certifications/exams/az-300"
   certificate_url = "https://www.youracclaim.com/badges/fe4e9ae1-6bbc-4e5d-82f7-92ae1f0b2c66"
