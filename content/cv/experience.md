@@ -47,8 +47,21 @@ Responsibilities include:
   * Product portfolio development (Managed services)
   * Support sales team
   * RFP support
-  * Giving training about Kubernetes, DevOps
-  """
+
+* Trainer
+  
+  * Internal
+
+    * Azure
+    * Kubernetes
+    * DevOps
+    * Git
+
+  * External
+
+    * Cloud Native In A Day
+    * .NET App Modernizations
+"""
 
 [[experience]]
   title = "Senior Azure Consultant and Senior.NET Developer"
