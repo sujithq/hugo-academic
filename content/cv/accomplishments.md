@@ -45,6 +45,19 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Microsoft"
   organization_url = "https://www.microsoft.com"
+  title = "Microsoft Certified: Azure AI Engineer Associate"
+  url = "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer"
+  certificate_url = "https://www.youracclaim.com/badges/4372a0cc-dfb8-4311-a920-8289eedbf27c"
+  date_start = "2021-01-11"
+  date_end = ""
+  description = """
+  Earning the Azure AI Engineer Associate certification validates the skills and knowledge to use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions involving natural language processing, speech, computer vision, bots, and agents.
+  """
+
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com"
   title = "Microsoft Certified: Azure Security Engineer Associate"
   url = "https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer"
   certificate_url = "https://www.youracclaim.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"
