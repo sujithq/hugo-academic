@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cloud Solutions Architect and DevOps Enabler @ Arxus
+role: Azure Cloud Solutions Architect | Azure Administrator | Azure DevOps, AI and Security Engineer | Azure Developer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "" # https://arxus.eu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Azure (IaaS, PaaS, Saas), DevOps (People, Process and Products), Kubernetes, Application Development (.NET), NOSQL (CosmosDB), Architecture, AI, ML
+bio: My interests include Azure (IaaS, PaaS, Saas, Faas), DevOps (People, Process and Products), Kubernetes, Application Development (.NET), NOSQL (CosmosDB, RavenDB, ...), Architecture, AI, ML, Programming Languages (Python, JS, ...)
 
 interests:
 - Azure
@@ -30,6 +30,7 @@ interests:
 - Architecture
 - AI, ML
 - NOSQL
+- Programming Languages
 
 education:
   courses:
