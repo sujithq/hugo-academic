@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-Arxus, founded in 2008, is a Managed Services Provider made up of 60+ cloud enthusiasts with unique cloud expertise and sector specific knowledge.
+Arxus, founded in 2008, is a Managed Services Provider made up of 80+ cloud enthusiasts with unique cloud expertise and sector specific knowledge.
 
 From our headquarters in Kontich, our certified team provides tailored Azure, Office 365, and Microsoft 365 solutions, changing the complex challenge of modernising your infrastructure into an opportunity to create a truly future-proof business with managed public and private cloud solutions.
 
@@ -40,13 +40,14 @@ Responsibilities include:
   * Audits concerning performance,
   * Security
   * Cost management
-  * Data storage choice (SQL Server, CosmosDB, ...)
+  * Data storage choice (SQL Server, CosmosDB, MySQL, ...)
   
 * Helping with internal projects
 
   * Product portfolio development (Managed services)
   * Support sales team
   * RFP support
+  * Support for obtaining Expert MSP, Advanced Specializations
 
 * Trainer
   
